@@ -36,7 +36,7 @@ public class SecureSocial extends Controller {
     private static final String ORIGINAL_URL = "originalUrl";
     private static final String GET = "GET";
     private static final String ROOT = "/";
-    static final String USER = "user";
+    static final String USER = "socialuser";
     private static final String ERROR = "error";
     private static final String SECURESOCIAL_AUTH_ERROR = "securesocial.authError";
     private static final String SECURESOCIAL_LOGIN_REDIRECT = "securesocial.login.redirect";
